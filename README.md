@@ -15,6 +15,10 @@ https://www.overleaf.com/7818642171knhtcgjjpkgp#177707
 2. Abrir el repositorio
 3. Ejecutar el siguiente comando en la terminal: python setup.py install
 
+## Descarga del dataset:
+
+Debido a que pesa más de 25 mb debe ser descargado en el siguiente link: https://research.zozo.com/data.html. Una vez realizado lo anterior, se debe descomprimir dentro de la carpeta Baselines y 'código proyecto'
+
 ## Ejecución del proyecto:
 
 * Los baselines están en la carpeta con dicho nombre. Contiene un jupyter notebook para el baseline de cada dataset (men, women y all)
