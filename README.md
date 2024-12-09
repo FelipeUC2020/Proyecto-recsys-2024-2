@@ -24,7 +24,7 @@ Debido a que pesa más de 25 mb, que es el límite permitido en github, debe ser
 * Los baselines están en la carpeta con dicho nombre. Contiene un jupyter notebook para el baseline de cada dataset (men, women y all)
 * Para obtener los resultados, en la carpeta 'código proyecto' se encuentran los jupyter notebook. Al igual que los baselines, hay uno para cada dataset.
 * Debido a los largos tiempos de ejecución subimos una carpeta 'Resultados' donde están los resultados de cada jupyter notebook en formato de pickle.
-
+* Para ver el análisis realizado en torno a los clusters obtenidos, ir a la carpeta 'análsis de los clusters' que se encuentra dentro del directorio 'código proyecto'. Ahí se debe descomprimir la carpeta 'Dataset' y luego ejecutar el jupyter analisis_clusters.
 ## Observaciones:
 
 * Para cambiar la manera en que se hacen los clusters, se puede editar la función explorar_clusters comentando la variable 'user_features_encoded' y y descomentando 'user_features' y el 'user_features_encoded' que se encuentra comentado. Con esto se cambian las columnas seleccionadas al momento de realizar los clusters
