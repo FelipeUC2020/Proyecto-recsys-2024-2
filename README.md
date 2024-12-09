@@ -17,7 +17,7 @@ https://www.overleaf.com/7818642171knhtcgjjpkgp#177707
 
 ## Descarga del dataset:
 
-Debido a que pesa más de 25 mb debe ser descargado en el siguiente link: https://research.zozo.com/data.html. Una vez realizado lo anterior, se debe descomprimir dentro de la carpeta Baselines y 'código proyecto'
+Debido a que pesa más de 25 mb, que es el límite permitido en github, debe ser descargado en el siguiente link: https://research.zozo.com/data.html. Una vez realizado lo anterior, se debe descomprimir dentro de la carpeta Baselines y 'código proyecto'
 
 ## Ejecución del proyecto:
 
