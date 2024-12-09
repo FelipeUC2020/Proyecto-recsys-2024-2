@@ -7,3 +7,20 @@ and Reproducible Off-Policy Evaluation -> https://arxiv.org/pdf/2008.07146
 
 ## Overleaf
 https://www.overleaf.com/7818642171knhtcgjjpkgp#177707
+
+
+## Instrucciones de instalación de OBP:
+
+1. Para poder ejecutar el proyecto se tiene que clonar el repositorio de OBP (https://github.com/st-tech/zr-obp)
+2. Abrir el repositorio
+3. Ejecutar el siguiente comando en la terminal: python setup.py install
+
+## Ejecución del proyecto:
+
+* Los baselines están en la carpeta con dicho nombre. Contiene un jupyter notebook para el baseline de cada dataset (men, women y all)
+* Para obtener los resultados, en la carpeta 'código proyecto' se encuentran los jupyter notebook. Al igual que los baselines, hay uno para cada dataset.
+* Debido a los largos tiempos de ejecución subimos una carpeta 'Resultados' donde están los resultados de cada jupyter notebook en formato de pickle.
+
+## Observaciones:
+
+* Para cambiar la manera en que se hacen los clusters, se puede editar la función explorar_clusters comentando la variable 'user_features_encoded' y y descomentando 'user_features' y el 'user_features_encoded' que se encuentra comentado.
