@@ -23,4 +23,4 @@ https://www.overleaf.com/7818642171knhtcgjjpkgp#177707
 
 ## Observaciones:
 
-* Para cambiar la manera en que se hacen los clusters, se puede editar la función explorar_clusters comentando la variable 'user_features_encoded' y y descomentando 'user_features' y el 'user_features_encoded' que se encuentra comentado.
+* Para cambiar la manera en que se hacen los clusters, se puede editar la función explorar_clusters comentando la variable 'user_features_encoded' y y descomentando 'user_features' y el 'user_features_encoded' que se encuentra comentado. Con esto se cambian las columnas seleccionadas al momento de realizar los clusters
