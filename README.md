@@ -6,7 +6,7 @@
 and Reproducible Off-Policy Evaluation -> https://arxiv.org/pdf/2008.07146
 
 ## Overleaf
-https://www.overleaf.com/7818642171knhtcgjjpkgp#177707
+https://www.overleaf.com/read/sybccggmpybj#a64393
 
 
 ## Instrucciones de instalación de OBP:
